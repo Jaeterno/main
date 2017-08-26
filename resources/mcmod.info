@@ -1,0 +1,15 @@
+[
+{
+  "modid": "jtm",
+  "name": "Jaeterno's Mod",
+  "description": "a WIP progress mod that adds some stuff I guess",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Jaeterno"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

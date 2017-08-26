@@ -1,0 +1,15 @@
+item.brodometalingot.name=Brodometal Ingot
+tile.brodometalblock.name=Brodometal Block
+
+item.brodometal_helmet.name=Brodometal Helmet
+item.brodometal_chestplate.name=Brodometal Chestplate
+item.brodometal_leggings.name=Brodometal Leggings
+item.brodometal_boots.name=Brodometal Boots
+
+item.brodometal_pickaxe.name=Brodometal Pickaxe
+item.brodometal_axe.name=Brodometal Axe
+item.brodometal_sword.name=Brodometal Sword
+item.brodometal_hoe.name=Brodometal Hoe
+item.brodometal_shovel.name=Brodometal Shovel
+
+itemGroup.jaeternotab=Jaeterno's Mod
